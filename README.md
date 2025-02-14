@@ -8,7 +8,7 @@
 
 ### 🌟 **About Me**
 - 🎓 **CSE Student** at ADCET, Ashta  
-- 💡 Passionate about **Problem-Solving & AI**  
+- 💡 Passionate about **Problem-Solving**  
 - ⚡ Currently working on **Web & ML Projects**  
 - 🌍 I love **exploring new technologies** & **collaborating**  
 
