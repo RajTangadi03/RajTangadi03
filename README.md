@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! 👋 I'm Raj Tangadi</h2>
 
 <p align="center">
-  🚀 Competitive Programmer | CSE'26 | C++ | ML | Web Development
+  🚀 Competitive Programmer | ADCET'26 CSE | C++ | ML | Web Development
 </p>
 
 ---
